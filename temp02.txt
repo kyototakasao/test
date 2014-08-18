@@ -1,3 +1,7 @@
 temp2
 tetete
+<<<<<<< HEAD
 wowowowowo
+=======
+wowowo
+>>>>>>> topic/info
